@@ -1,4 +1,4 @@
-# PixelfedSpoilerUncover
+# Pixelfed Spoiler Uncover
 Automatically reveals spoiler content on Pixelfed by clicking the "See Post" button.
 
 ![2024-08-22 13_56_48-Window](https://github.com/user-attachments/assets/98a19b55-b329-4f86-abfd-41b75f2b2797)
